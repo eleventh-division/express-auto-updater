@@ -1,0 +1,21 @@
+{
+  "name": "express-electron-updater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "byte-range-stream": "^2.0.1",
+    "connect-timeout": "^1.9.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-partial-content": "^1.0.2",
+    "express-rate-limit": "^6.5.1",
+    "logger": "^0.0.1",
+    "nodemon": "^2.0.19",
+    "send-ranges": "^4.0.0"
+  }
+}

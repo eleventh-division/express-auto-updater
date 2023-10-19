@@ -1,0 +1,63 @@
+{
+  "processing": [
+    {
+      "id": "e55f3235-5957-415a-b17e-860c2e11d9c9",
+      "zip": "e55f3235-5957-415a-b17e-860c2e11d9c9.zip",
+      "latest": true,
+      "executable": "processing-server",
+      "version": "0.1.2"
+    }
+  ],
+  "server": [
+    {
+      "id": "e55f3235-5957-415a-b17e-860c2e11d9c9",
+      "zip": "e55f3235-5957-415a-b17e-860c2e11d9c9.zip",
+      "latest": true,
+      "executable": "iq.jar",
+      "version": "1.2.3"
+    }
+  ],
+  "launcher": {
+    "win": [
+      {
+        "id": "e55f3235-5957-415a-b17e-860c2e11d9c9",
+        "zip": "e55f3235-5957-415a-b17e-860c2e11d9c9.zip",
+        "latest": true,
+        "executable": "win.exe",
+        "version": "0.0.1"
+      }
+    ],
+    "linux": [
+      {
+        "id": "e55f3235-5957-415a-b17e-860c2e11d9c9",
+        "zip": "e55f3235-5957-415a-b17e-860c2e11d9c9.zip",
+        "latest": false,
+        "executable": "App-0.0.1.AppImage",
+        "version": "0.0.1"
+      },
+      {
+        "id": "6c5b9d5f-5c31-4325-9c3f-7aac2235cb3d",
+        "zip": "6c5b9d5f-5c31-4325-9c3f-7aac2235cb3d.zip",
+        "latest": false,
+        "executable": "App-0.0.2.AppImage",
+        "version": "0.0.2"
+      },
+      {
+        "id": "4fb8d2a5-9ec1-4e74-b5b2-612ac30408dc",
+        "zip": "4fb8d2a5-9ec1-4e74-b5b2-612ac30408dc.zip",
+        "latest": true,
+        "executable": "App-0.0.3.AppImage",
+        "version": "0.0.3"
+      }
+    ],
+    "mac": [
+      {
+        "id": "e55f3235-5957-415a-b17e-860c2e11d9c9",
+        "zip": "e55f3235-5957-415a-b17e-860c2e11d9c9.zip",
+        "latest": true,
+        "executable": "mac.dmg",
+        "version": "0.0.1"
+      }
+    ]
+  }
+}
